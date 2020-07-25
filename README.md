@@ -78,6 +78,11 @@ In a complete binary tree every level, except possibly the last, is completely f
 * [Binary Tree and its Types | Data Structures](https://www.youtube.com/watch?v=vvey2QCs98o)
 * [Trees and Binary Search Trees](https://www.youtube.com/watch?v=TocJLRkp4dc)
 
+## Instalation
+
+* git clone git@github.com:nathsotomayor/binary_trees.git
+* cd binary_trees
+
 
 ----------------------------------------------------------------------------------------------------------------
 # ***Authors***:
